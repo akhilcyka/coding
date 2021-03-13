@@ -1,0 +1,2 @@
+# coding
+"Hello world"
